@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "66G8CS6/gCKEWgym1cCmvDMEPtL8FBcixI6bkPGX8gi2Biyj0yRXxCwos3DQ1a+pLrKUTTNkbDAuEIIwfwnoKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\parra\\OneDrive\\Documentos\\Senai\\POO---Celular\\POO---Celular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\parra\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
