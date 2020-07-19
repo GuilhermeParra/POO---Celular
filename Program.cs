@@ -25,7 +25,7 @@ namespace POO___Celular
             Samsung.informacao = Console.ReadLine();
 
              if(Samsung.informacao == "sim" || Samsung.informacao == "Sim"){
-                 Console.WriteLine(Samsung.Informacoes());
+                 Console.WriteLine(Samsung.Informar());
                  Console.WriteLine("Seu celular também pode fazer ligações, deseja ligar para alguém?");
                  Samsung.chamada = Console.ReadLine();
                  if(Samsung.chamada == "sim" || Samsung.chamada == "Sim"){
